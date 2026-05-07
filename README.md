@@ -26,7 +26,7 @@ Gravity Run is a 2D platformer where the player flips gravity with a single clic
 Run → Jump → Flip Gravity → Avoid Spikes → Reach the Finish
 
 ### Controls
-- **W / A / S / D** or **Arrow Keys** → Move the character
+- **W / A / S / D** → Move the character
 - **Space** → Jump
 - **Right Mouse Click** → Flip gravity
 
