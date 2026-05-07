@@ -33,6 +33,9 @@ Run → Jump → Flip Gravity → Avoid Spikes → Reach the Finish
 ### Win Condition
 Reach the finish point at the end of the parkour level.
 
+### Art Style
+Pixel Art
+
 ### Loss Condition
 Touching the spikes results in instant death.
 
