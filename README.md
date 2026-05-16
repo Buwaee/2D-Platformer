@@ -7,7 +7,7 @@
 | Name | Role | GitHub |
 |------|------|--------|
 | Ebrar Baha Özüpek | Lead Developer / Programmer | @Buwaee |
-| Senanur Karaca | Level Designer / Co-Developer 
+| Senanur Karaca | Level Designer 
 
 ---
 
